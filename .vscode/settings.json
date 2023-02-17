@@ -12,7 +12,7 @@
       "editor.lineHeight": 2.5,
       "editor.fontWeight": "normal",
       "editor.cursorStyle": "block-outline",
-      "window.zoomLevel": -2,
+      "window.zoomLevel": -3,
       "terminal.external.linuxExec": "iterm",
       "terminal.integrated.fontSize": 20,
       "workbench.iconTheme": "bearded-icons",
